@@ -1,0 +1,4 @@
+org\apache\kafka\connect\elasticsearchschema\ElasticsearchSinkTask$1.class
+org\apache\kafka\connect\elasticsearchschema\ElasticsearchSinkTask.class
+org\apache\kafka\connect\elasticsearchschema\ElasticsearchSinkConnector.class
+org\apache\kafka\connect\elasticsearchschema\ElasticsearchSinkTask$2.class
